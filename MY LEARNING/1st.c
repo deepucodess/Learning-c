@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    printf("hello world");
+    float a;
+    scanf("%f",&a);
 
+
+    printf("this is float:%f",a);
     return 0;
 }
